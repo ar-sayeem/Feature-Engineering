@@ -1,9 +1,9 @@
 Student ID,Student Name,CGPA,Age,Semester,Gender
-M001,A,3.22,18,F22,male
-F002,B,,20,S22,female
-F003,C,3.62,,F23,female
-M004,D,4,20,F23,male
-M005,E,3.68,21,S23,male
-F006,F,3.89,22,S23,female
-AG007,Agent47,4.00,24,S01,male
-AG007,Agent47,4.00,24,S01,male
+1,A,3.22,18,F22,male
+2,B,,20,S22,female
+3,C,3.62,,F23,female
+4,D,4,20,,male
+5,E,3.68,21,S23,male
+6,F,3.89,,,female
+7,Agent47,4.00,24,S01,male
+7,Agent47,4.00,24,S01,male
