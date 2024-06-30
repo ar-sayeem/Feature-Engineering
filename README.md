@@ -1,2 +1,2 @@
-In this project, a comprehensive Exploratory Data Analysis (EDA) and feature engineering to ensure data quality and uncover valuable insights is conducted. EDA involved cleaning, preprocessing, and visualizing the data to identify key patterns and relationships. Feature engineering enhanced the dataset by encoding categorical variables and creating new features, setting a solid foundation for robust predictive modeling.
-[Course: Introduction to Data Science]
+# About This Project
+In this project, a comprehensive Exploratory Data Analysis (EDA) and feature engineering to ensure data quality and uncover valuable insights is conducted. EDA involved cleaning, preprocessing, and visualizing the data to identify key patterns and relationships. Feature engineering enhanced the dataset by encoding categorical variables and creating new features, setting a solid foundation for robust predictive modeling. [Course: Introduction to Data Science]
